@@ -7,4 +7,4 @@ https://stackoverflow.com/questions/5144727/how-to-interpret-gdb-info-frame-outp
 
 https://stackoverflow.com/questions/5286451/how-to-print-variable-addresses-in-c
 
-this is the stuff that was said during the one terrance lab (https://github.com/geryb-bg/java-spring-boot)[test]
+this is the stuff that was said during the one terrance lab [https://github.com/geryb-bg/java-spring-boot](test)
