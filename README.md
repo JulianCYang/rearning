@@ -18,3 +18,4 @@ Check that manual he sent out because it allows you to play with a bunch of stuf
 
 ## Stuff about PC Lab 2 
 
+can write the code linearly but then when we introduce the parallesiasastaoin then its going to be slower because of false sharing and then once we fix this problem then we gucci.
