@@ -8,3 +8,5 @@ https://stackoverflow.com/questions/5144727/how-to-interpret-gdb-info-frame-outp
 https://stackoverflow.com/questions/5286451/how-to-print-variable-addresses-in-c
 
 this is the stuff that was said during the one terrance lab https://github.com/geryb-bg/java-spring-boot\
+
+https://github.com/hossamkhader/csc562-shell/blob/master/builtins.c great things to learn for cd and stuff
